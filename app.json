@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "corelog_app",
+    "slug": "corelog_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
